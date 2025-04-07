@@ -10,7 +10,16 @@ permalink: /
 
 Duke University School of Medicine  
 
-[Duke Profile](https://emergencymedicine.duke.edu/profile/christopher-j-nash) • [Google Scholar](https://scholar.google.com/citations?user=pU3VU0AAAAAJ) • [ORCID](https://orcid.org/0000-0002-0738-409X)
+<a href="https://emergencymedicine.duke.edu/profile/christopher-j-nash" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dukeuniversity.svg" alt="Duke" style="height:1em; vertical-align:middle;"/> Duke Profile
+</a> •
+<a href="https://scholar.google.com/citations?user=pU3VU0AAAAAJ" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" alt="Google Scholar" style="height:1em; vertical-align:middle;"/> Google Scholar
+</a> •
+<a href="https://orcid.org/0000-0002-0738-409X" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/orcid.svg" alt="ORCID" style="height:1em; vertical-align:middle;"/> ORCID
+</a>
+
 
 ---
 
