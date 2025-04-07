@@ -23,7 +23,6 @@ Duke University School of Medicine
   ORCID
 </a>
 
-
 ---
 
 ## Education
