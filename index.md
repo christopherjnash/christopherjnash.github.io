@@ -10,30 +10,22 @@ permalink: /
 
 Duke University School of Medicine  
 
-<a href="https://emergencymedicine.duke.edu/profile/christopher-j-nash" target="_blank" style="text-decoration: none; margin-right: 1em;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.86 20.62" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
-    <path d="M14.07,16.29c-2.16,1.58-5.31,2.46-5.59,2.54h0c.24-.12,2.83-1.38,3.99-2.51.55-.54.99-1.33,1.28-1.99-.14.12-.24.34-1.6,1.07-1.29.69-3.45,1.46-3.67,1.54h0c.19-.11,1.73-.96,2.66-2.02.56-.63,1.01-1.19,1.24-1.75-1.1.87-3.66,1.82-3.9,1.91h0c.15-.09,1.1-.69,1.89-1.6.57-.67.63-1.1.72-1.45-1.2.95-2.44,1.14-2.61,1.16h0c.15-.11,1.19-.85,1.24-2.31-.95.87-1.76.56-2.15.22-.38-.34-.37-1.07-.37-1.07V0h-1.27v.93h-1.69v-.93h-1.27v.93h-1.69v-.93H0v11.51s.02,3.27,3.02,5.74c2.1,1.73,5.46,3.37,5.46,3.37.28-.14,3.45-1.71,4.83-2.93.99-.88,1.46-1.46,1.79-2.21-.29.27-.64.54-1.03.82Z"/>
-    <path d="M12.41,9.05V.96h-1.16v9.65s.04.69-.16,1.43c1.53-.99,1.33-2.98,1.33-2.98Z"/>
-    <path d="M13.89,10V0h-1.16v11.44s.04.79-.34,1.72c1.5-1.22,1.51-3.16,1.51-3.16Z"/>
-    <path d="M15.37,10.64V.96h-1.16v11.14s-.1,1.53-.46,2.23c1.64-1.05,1.62-3.68,1.62-3.68Z"/>
-    <path d="M16.86,11.44V0h-1.17v13.08s-.06,1.18-.59,2.38c1.83-1.76,1.76-4.03,1.76-4.03Z"/>
-    <path d="M10.93,8.34V0h-1.16v9.84s0,.74-.04,1.02c1.35-1.16,1.2-2.53,1.2-2.53Z"/>
-  </svg>
-  Duke Profile
-</a><a href="https://scholar.google.com/citations?user=pU3VU0AAAAAJ" target="_blank" style="text-decoration: none; margin-right: 1em;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
-    <title>Google Scholar</title>
-    <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
-  </svg>
-  Google Scholar
-</a><a href="https://orcid.org/0000-0002-0738-409X" target="_blank" style="text-decoration: none;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
-    <title>ORCID</title>
-    <path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
-  </svg>
-  ORCID
-</a>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.86 20.62" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
+<path d="M14.07,16.29c-2.16,1.58-5.31,2.46-5.59,2.54h0c.24-.12,2.83-1.38,3.99-2.51.55-.54.99-1.33,1.28-1.99-.14.12-.24.34-1.6,1.07-1.29.69-3.45,1.46-3.67,1.54h0c.19-.11,1.73-.96,2.66-2.02.56-.63,1.01-1.19,1.24-1.75-1.1.87-3.66,1.82-3.9,1.91h0c.15-.09,1.1-.69,1.89-1.6.57-.67.63-1.1.72-1.45-1.2.95-2.44,1.14-2.61,1.16h0c.15-.11,1.19-.85,1.24-2.31-.95.87-1.76.56-2.15.22-.38-.34-.37-1.07-.37-1.07V0h-1.27v.93h-1.69v-.93h-1.27v.93h-1.69v-.93H0v11.51s.02,3.27,3.02,5.74c2.1,1.73,5.46,3.37,5.46,3.37.28-.14,3.45-1.71,4.83-2.93.99-.88,1.46-1.46,1.79-2.21-.29.27-.64.54-1.03.82Z"/>
+<path d="M12.41,9.05V.96h-1.16v9.65s.04.69-.16,1.43c1.53-.99,1.33-2.98,1.33-2.98Z"/>
+<path d="M13.89,10V0h-1.16v11.44s.04.79-.34,1.72c1.5-1.22,1.51-3.16,1.51-3.16Z"/>
+<path d="M15.37,10.64V.96h-1.16v11.14s-.1,1.53-.46,2.23c1.64-1.05,1.62-3.68,1.62-3.68Z"/>
+<path d="M16.86,11.44V0h-1.17v13.08s-.06,1.18-.59,2.38c1.83-1.76,1.76-4.03,1.76-4.03Z"/>
+<path d="M10.93,8.34V0h-1.16v9.84s0,.74-.04,1.02c1.35-1.16,1.2-2.53,1.2-2.53Z"/>
+</svg><a href="https://emergencymedicine.duke.edu/profile/christopher-j-nash" target="_blank" style="text-decoration: none; margin-right: 1em;">  Duke Profile</a>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
+<title>Google Scholar</title>
+<path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
+</svg><a href="https://scholar.google.com/citations?user=pU3VU0AAAAAJ" target="_blank" style="text-decoration: none; margin-right: 1em;">  Google Scholar</a>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="height: 1em; vertical-align: middle; margin-right: 0.3em; fill: white;">
+<title>ORCID</title>
+<path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
+</svg><a href="https://orcid.org/0000-0002-0738-409X" target="_blank" style="text-decoration: none;">  ORCID</a>
 
 ---
 
