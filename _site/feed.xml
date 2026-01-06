@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chris Nash</title>
+  <title>Christopher J. Nash, MD, EdM</title>
   <subtitle>Emergency medicine physician and education researcher at Duke University</subtitle>
-  <updated>2026-01-06T14:11:21-05:00</updated>
+  <updated>2026-01-06T14:33:59-05:00</updated>
   <author>
     <name>Christopher J. Nash, MD, EdM</name>
     <uri>http://localhost:4000/</uri>

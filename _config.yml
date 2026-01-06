@@ -16,6 +16,8 @@ timezone: America/New_York
 
 title: Christopher J. Nash, MD, EdM # the main title
 
+sidebar_title: Chris Nash # the label used in the sidebar
+
 tagline: Emergency medicine physician and education researcher at Duke University # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
