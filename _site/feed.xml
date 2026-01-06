@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chris Nash</title>
   <subtitle>Emergency medicine physician and education researcher at Duke University</subtitle>
-  <updated>2025-04-04T22:23:11-04:00</updated>
+  <updated>2026-01-06T14:00:11-05:00</updated>
   <author>
     <name>Christopher J. Nash, MD, EdM</name>
     <uri>http://localhost:4000/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 Christopher J. Nash, MD, EdM </rights>
+  <rights> © 2026 Christopher J. Nash, MD, EdM </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 

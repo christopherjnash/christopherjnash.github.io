@@ -3,4 +3,27 @@
 icon: fas fa-info-circle
 order: 2
 ---
-Chris Nash is an emergency physician and medical education researcher at Duke University. His academic work focuses on clinical reasoning, educational assessment, and the thoughtful integration of AI and simulation in training environments. He is a core faculty member in the Duke Emergency Medicine Residency, where he helps train both medical students and residents. Chris is also a fellow in the NBME SEEF program and a graduate of the SAEM ARMED MedEd initiative. When not in the resus bay or refining rubrics, he’s raising two daughters, playing guitar, and occasionally debugging his smart home setup.
+I am a board-certified emergency medicine physician and Assistant Professor at Duke University School of Medicine, where I serve as Simulation Director for the Duke Emergency Medicine residency. I work clinically at Duke University Hospital and Duke Raleigh Hospital.
+
+My clinical practice includes high-acuity emergency care, and my academic work focuses on simulation, assessment, and medical education research. I completed a Master of Education at Harvard, with scholarship centered on performance evaluation and the role of artificial intelligence in medical education.
+
+Across clinical, educational, and consulting work, my goal is to make complex emergency medicine decisions understandable—whether for trainees, educators, legal professionals, or healthcare leaders.
+
+Academic and clinical background
+
+- Emergency medicine attending physician
+- Assistant Professor, Duke University School of Medicine
+- Simulation Director, Duke EM Residency
+- Master of Education, Harvard University
+
+Prior institutions
+
+- Massachusetts General Hospital
+- Brigham and Women’s Hospital
+- Newton-Wellesley Hospital
+
+Selected recognition
+
+- Duke Emergency Medicine Teaching Attending of the Year
+- NBME Strategic Educators Enhancement Fund Fellow
+- Multiple institutional teaching awards
