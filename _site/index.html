@@ -210,6 +210,28 @@
   }
 </style>
 
+<script>
+  // Normalize browser tab titles: home = site title, others = "<page> | <site>"
+  document.addEventListener('DOMContentLoaded', function () {
+    var pageTitle = "Christopher J. Nash, MD, EdM";
+    var siteTitle = 'Christopher J. Nash, MD, EdM';
+    var currentPath = "/";
+    var homePaths = ['/', ""];
+
+    var isHome = homePaths.some(function (p) {
+      return p === currentPath || (p && currentPath === p + '/');
+    });
+
+    if (isHome) {
+      document.title = siteTitle;
+    } else if (pageTitle) {
+      document.title = pageTitle + ' | ' + siteTitle;
+    } else {
+      document.title = siteTitle;
+    }
+  });
+</script>
+
 </head>
 
 

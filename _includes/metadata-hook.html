@@ -10,3 +10,25 @@
     display: none !important;
   }
 </style>
+
+<script>
+  // Normalize browser tab titles: home = site title, others = "<page> | <site>"
+  document.addEventListener('DOMContentLoaded', function () {
+    var pageTitle = {{ page.title | jsonify }};
+    var siteTitle = 'Christopher J. Nash, MD, EdM';
+    var currentPath = {{ page.url | jsonify }};
+    var homePaths = ['/', {{ site.baseurl | default: '' | jsonify }}];
+
+    var isHome = homePaths.some(function (p) {
+      return p === currentPath || (p && currentPath === p + '/');
+    });
+
+    if (isHome) {
+      document.title = siteTitle;
+    } else if (pageTitle) {
+      document.title = pageTitle + ' | ' + siteTitle;
+    } else {
+      document.title = siteTitle;
+    }
+  });
+</script>
