@@ -17,7 +17,8 @@
     var pageTitle = {{ page.title | jsonify }};
     var siteTitle = 'Christopher J. Nash, MD, EdM';
     var currentPath = {{ page.url | jsonify }};
-    var homePaths = ['/', {{ site.baseurl | default: '' | jsonify }}];
+    var baseUrl = {{ site.baseurl | default: '' | jsonify }};
+    var homePaths = ['/', baseUrl, '/index.html', (baseUrl ? baseUrl + '/index.html' : '')];
 
     var isHome = homePaths.some(function (p) {
       return p === currentPath || (p && currentPath === p + '/');

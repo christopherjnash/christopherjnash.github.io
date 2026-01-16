@@ -4,9 +4,10 @@ vendor
 Gemfile.lock
 
 # Jekyll cache
-.jekyll-cache
+.jekyll-cache/
 .jekyll-metadata
-_site
+_site/
+.sass-cache/
 
 # RubyGems
 *.gem
